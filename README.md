@@ -14,4 +14,4 @@ We (the final copyright holder is [はなちゃん](https://twitter.com/HanaChan
 ## Quickly start<br>快速开始
 See [Quickly Start](en/quick-start/).
 
-见[快速开始](zh-sp/quick-start/)。
+见[快速开始](zh-sp/quick-start.md/)。
