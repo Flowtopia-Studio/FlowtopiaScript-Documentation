@@ -8,9 +8,9 @@
 ```
 说话人#播放音频#对话内容
 ```
- - 说话人：这部分是一个[字符串](../references/class/string/)，用来表示说话的人。
- - 播放音频：这部分是一个[路径](../references/class/path/)，用来规定这句话对应的配音。
- - 对话内容：这部分是一个[字符串](../references/class/string/)。这部分将会显示在文本框的最主要部分。
+ - 说话人：这部分是一个[字符串](references/class/string.md)，用来表示说话的人。
+ - 播放音频：这部分是一个[路径](references/class/path.md)，用来规定这句话对应的配音。
+ - 对话内容：这部分是一个[字符串](references/class/string.md)。这部分将会显示在文本框的最主要部分。
 
 如果这段对话不需要播放音频，您可以移除`播放音频`部分。就像这样：
 ```
@@ -48,11 +48,11 @@
 @p@
 穿着女仆装的开朗女生#Audios/Voices/HaruameYuumu/1-10#嗯哼~
 ```
-您应该能发现，使用`说话人#播放音频#对话内容`表示格式的对话中，`播放音频`部分（`Audios/Voices/HaruameYuumu/1-10`）不太一样。事实上，这一段应该是一个[路径](../references/class/path/)。更准确一些地说，它应该是一个 [Unity Resources.Load(string path)](https://docs.unity3d.com/ScriptReference/Resources.Load.html) 方法中的 path 参数。它告诉脚本执行器应该如何找到这个音频文件。
+您应该能发现，使用`说话人#播放音频#对话内容`表示格式的对话中，`播放音频`部分（`Audios/Voices/HaruameYuumu/1-10`）不太一样。事实上，这一段应该是一个[路径](references/class/path.md)。更准确一些地说，它应该是一个 [Unity Resources.Load(string path)](https://docs.unity3d.com/ScriptReference/Resources.Load.html) 方法中的 path 参数。它告诉脚本执行器应该如何找到这个音频文件。
 
-除此之外，您应该注意到，在每句话之间都出现了`@p@`。这样的文本叫做[段落分隔符](../references/class/mark/paragrath-separator/)，是[标识符](../references/class/mark)的一种。脚本解析器会将您的脚本按照段落分隔符进行分割，将它拆分为一个个的块。每一次点击都会执行接下来的一个块，而不是单行。
+除此之外，您应该注意到，在每句话之间都出现了`@p@`。这样的文本叫做[段落分隔符](references/class/mark/paragrath-separator.md)，是[标识符](references/class/mark.md)的一种。脚本解析器会将您的脚本按照段落分隔符进行分割，将它拆分为一个个的块。每一次点击都会执行接下来的一个块，而不是单行。
 
-那么，手动按下`回车键`进行的换行有什么用呢？它是不是对应了脚本显示时的换行呢？事实上，**脚本中的换行会被忽略**。脚本中的换行实际上是一些看不到的字符（在 Windows 中是`\r\n`，在 MacOS 中是`\r`，在 Linux 中是`\n`），这些字符在脚本解析时，会被脚本解析器替换为空字符——也就是过滤掉这些字符。脚本中换行的存在，只是为了方便脚本编辑者更直观地编辑脚本。**无论多少个换行，在脚本解析时都会被忽略**。如果您需要换行，您需要用`@n@`标记。这叫做[换行符](../references/class/mark/newline/)，也是是[标识符](../references/class/mark)的一种。就像这样：
+那么，手动按下`回车键`进行的换行有什么用呢？它是不是对应了脚本显示时的换行呢？事实上，**脚本中的换行会被忽略**。脚本中的换行实际上是一些看不到的字符（在 Windows 中是`\r\n`，在 MacOS 中是`\r`，在 Linux 中是`\n`），这些字符在脚本解析时，会被脚本解析器替换为空字符——也就是过滤掉这些字符。脚本中换行的存在，只是为了方便脚本编辑者更直观地编辑脚本。**无论多少个换行，在脚本解析时都会被忽略**。如果您需要换行，您需要用`@n@`标记。这叫做[换行符](references/class/mark/newline.md)，也是是[标识符](references/class/mark.md)的一种。就像这样：
 ```
 晚上的滨临区真的很美，毕竟是沿海地区，会有很多的外地人来此观光或者定居，@n@
 所以当地也很重视街道的建设，每一个店铺的窗户里都透出或温暖或炫目的光，@n@
