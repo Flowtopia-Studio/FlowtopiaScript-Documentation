@@ -46,5 +46,6 @@
  - [条件控制](condition-control.md)
     - [条件表达式](condition-control/condition-expression.md)
  - [选项](select.md)
+ - [变量](variable.md)
  - [高级](advanced.md)
     - [自定义函数](custom-function.md)
