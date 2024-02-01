@@ -1,7 +1,9 @@
-# [参考](../references.md)
+# 参考
 
 > [*回到首页*](https://github.com/Flowtopia-Studio/FlowtopiaScript-Documentation)
+
 ***
+
 参考
  - [类](class.md)
     - [字符串](class/string.md)
