@@ -1,4 +1,4 @@
-# [参考](../references.md)：[类](class.md) > 浮点数
+# [参考](../references.md)：[类](../class.md) > 浮点数
 
 > [*回到首页*](https://github.com/Flowtopia-Studio/FlowtopiaScript-Documentation)
 
