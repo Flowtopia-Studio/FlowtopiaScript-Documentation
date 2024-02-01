@@ -9,58 +9,54 @@
 段落标识符的格式为`@p@`。
 
 以下的内容都使用了段落标识符。
-```
+<pre>
 是从雨宫身上发出来的，淡淡的草莓和香橙混合的奇妙气味，明明是那么淡的味道，为什么在一瞬间放大了那么多！
 @p@
 而且最重要的是，她看上去平平无奇的，但是想不到，她好像，好像并不是单纯的平胸，能明显感觉到，有一点柔软的感觉压压在了我的手臂上！这和甘茉那种平板的感觉有很大不同啊！
-```
+</pre>
 <pre>
-```
 苦匂#别，别搂着我，别搂着我！大夏天的你不嫌热吗！
 @p@
 实际上现在因为海水涨潮导致海风很大，整个街道都充满了凉爽的海风，真正发热的，可能是我燥热的心罢了。
 @p@
 这种感觉以前似乎也有过，但是实在是太久远了，已经回忆不起那时的感觉了。
 @p@
-@<a href="../../special-event.md">sp</a>:[ChangeBackgroundEmpty](../../special-event/change-background-empty.md):#000000@
-@<a href="../../special-event.md">sp</a>:[HideBackgroundFront](../../special-event/hide-background-front.md)@
-@<a href="../../special-event.md">sp</a>:[HideBackgroundBehind](../../special-event/hide-background-behind.md)@
-@<a href="../../special-event.md">sp</a>:[ChangeBackgroundFront](../../special-event/change-background-front.md):Backgrounds/Street_Night@
-@<a href="../../special-event.md">sp</a>:[ShowBackgroundFront](../../special-event/show-background-front.md)@
-@<a href="../../special-event.md">sp</a>:[ChangeCharacterMiddle](../../special-event/change-character-middle.md):Characters/AmamiyaRin/Smile_StreetNight@
-@<a href="../../special-event.md">sp</a>:[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-background-empty.md">ChangeBackgroundEmpty</a>#000000@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/hide-background-front.md>HideBackgroundFront</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/hide-background-behind.md>HideBackgroundBehind</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-background-front.md>ChangeBackgroundFront</a>:Backgrounds/Street_Night@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/show-background-front.md>ShowBackgroundFront</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-character-middle.md>ChangeCharacterMiddle</a>:Characters/AmamiyaRin/Smile_StreetNight@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/show-character-middle.md>ShowCharacterMiddle</a>@
 晚上的滨临区真的很美，毕竟是沿海地区，会有很多的外地人来此观光或者定居，所以当地也很重视街道的建设，每一个店铺的窗户里都透出或温暖或炫目的光，长相端正的服务员都站在门口发送传单或者迎接客人。
-```
 </pre>
 <pre>
-```
 穿着女仆装的开朗女生#Audios/Voices/HaruameYuumu/1-10#嗯哼~
 @p@
-@<a href="../../special-event.md">sp</a>:[HideCharacterMiddle](../../special-event/hide-character-middle.md)@
-@<a href="../../special-event.md">sp</a>:[ChangeCharacterLeft](../../special-event/change-character-left.md):Characters/AmamiyaRin/SlightlySurprised_Blush@
-@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_OpenMouth_OpenEyes_StreetNight_Maid@
-@<a href="../../special-event.md">sp</a>:[ShowCharacterLeft](../../special-event/show-character-left.md)@
-@<a href="../../special-event.md">sp</a>:[ShowCharacterRight](../../special-event/show-character-right.md)@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/hide-character-middle.md>HideCharacterMiddle</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-character-left.md>ChangeCharacterLeft</a>:Characters/AmamiyaRin/SlightlySurprised_Blush@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-character-right.md>ChangeCharacterRight</a>:Characters/HaruameYuumu/Smile_OpenMouth_OpenEyes_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/show-character-left.md>ShowCharacterLeft</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/show-character-right.md>ShowCharacterRight</a>@
 突然一个穿着女仆装。满面笑容的黑头发女生站在我的面前鞠了个躬，把传单发给了我。
 @p@
-@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_OpenMouth_Wink_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-character-right.md>ChangeCharacterRight</a>:Characters/HaruameYuumu/Smile_OpenMouth_Wink_StreetNight_Maid@
 穿着女仆装的开朗女生#这位先生，有兴趣来我们餐厅里吃点东西吗？我看您家这位已经饿得不行了呢——
 @p@
 苦匂#什，什么？‘您家这位’是，是什么意思？！
 @p@
-@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_CloseMouth_CloseEyes_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-character-right.md>ChangeCharacterRight</a>:Characters/HaruameYuumu/Smile_CloseMouth_CloseEyes_StreetNight_Maid@
 穿着女仆装的开朗女生#嗯？这位先生您好奇怪啊，不管怎么看她也是您的女朋友吧？贴的这么紧，真是令人羡慕啊~
 @p@
 果，果然被外人误会了啊啊啊啊啊啊啊！！！
 @p@
-@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Surprised_Normal_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/change-character-right.md>ChangeCharacterRight</a>:Characters/HaruameYuumu/Surprised_Normal_StreetNight_Maid@
 苦匂#哪，哪里是！不是！她可不是啊！
 @p@
-@<a href="../../special-event.md">sp</a>:[HideCharacterLeft](../../special-event/hide-character-left.md)@
-@<a href="../../special-event.md">sp</a>:[HideCharacterRight](../../special-event/hide-character-right.md)@
-@<a href="../../special-event.md">sp</a>:[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/hide-character-left.md>HideCharacterLeft</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/hide-character-right.md>HideCharacterRight</a>@
+@<a href="../../special-event.md">sp</a>:<a href="../../special-event/show-character-middle.md>ShowCharacterMiddle</a>@
 我赶紧迈过那个女生，拖着雨宫跑走了，只留下那个女生一脸惊讶和疑惑地留在了原地。
-```
 </pre>
 
 ## 类型转换
