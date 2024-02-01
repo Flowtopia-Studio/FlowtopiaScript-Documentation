@@ -23,7 +23,7 @@
 当满足以下格式时，字符串可以被：
  - 转换为[整数](integer.md)：`\d+`
  - 转换为[浮点数](float.md)：`\d+(\.\d+)?`
- - 转换为[布尔](bool.md)：`false|.+`
+ - 转换为[布尔值](bool.md)：`false|.+`
  - 转换为[路径](path.md)：`(\/|\\)?.+((\/|\\).+)*`
  - 转换为[标识符](mark.md) > [段落分隔符](mark/paragrath-separator.md)：`@p@`
  - 转换为[标识符](mark.md) > [换行符](mark/newline.md)：`@n@`
