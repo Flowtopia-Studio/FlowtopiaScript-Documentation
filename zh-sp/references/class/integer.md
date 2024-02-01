@@ -1,4 +1,4 @@
-# [参考](../references.md)：[类](class.md) > 整数
+# [参考](../references.md)：[类](../class.md) > 整数
 
 > [*回到首页*](https://github.com/Flowtopia-Studio/FlowtopiaScript-Documentation)
 
