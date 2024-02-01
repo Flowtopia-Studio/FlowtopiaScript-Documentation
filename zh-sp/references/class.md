@@ -4,8 +4,8 @@
 ***
 类
  - [字符串](class/string.md)
- - [整数](class/int.md)
- - [浮点数](class/floar.md)
+ - [整数](class/integer.md)
+ - [浮点数](class/float.md)
  - [布尔](class/bool.md)
  - [路径](class/path.md)
  - [标识符](class/mark.md)
