@@ -22,13 +22,13 @@
 @p@
 这种感觉以前似乎也有过，但是实在是太久远了，已经回忆不起那时的感觉了。
 @p@
-@[]():[ChangeBackgroundEmpty](../../special-event/change-background-empty.md):#000000@
-@[sp](../../special-event.md):[HideBackgroundFront](../../special-event/hide-background-front.md)@
-@[sp](../../special-event.md):[HideBackgroundBehind](../../special-event/hide-background-behind.md)@
-@[sp](../../special-event.md):[ChangeBackgroundFront](../../special-event/change-background-front.md):Backgrounds/Street_Night@
-@[sp](../../special-event.md):[ShowBackgroundFront](../../special-event/show-background-front.md)@
-@[sp](../../special-event.md):[ChangeCharacterMiddle](../../special-event/change-character-middle.md):Characters/AmamiyaRin/Smile_StreetNight@
-@[sp](../../special-event.md):[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
+@<a href="../../special-event.md">sp</a>:[ChangeBackgroundEmpty](../../special-event/change-background-empty.md):#000000@
+@<a href="../../special-event.md">sp</a>:[HideBackgroundFront](../../special-event/hide-background-front.md)@
+@<a href="../../special-event.md">sp</a>:[HideBackgroundBehind](../../special-event/hide-background-behind.md)@
+@<a href="../../special-event.md">sp</a>:[ChangeBackgroundFront](../../special-event/change-background-front.md):Backgrounds/Street_Night@
+@<a href="../../special-event.md">sp</a>:[ShowBackgroundFront](../../special-event/show-background-front.md)@
+@<a href="../../special-event.md">sp</a>:[ChangeCharacterMiddle](../../special-event/change-character-middle.md):Characters/AmamiyaRin/Smile_StreetNight@
+@<a href="../../special-event.md">sp</a>:[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
 晚上的滨临区真的很美，毕竟是沿海地区，会有很多的外地人来此观光或者定居，所以当地也很重视街道的建设，每一个店铺的窗户里都透出或温暖或炫目的光，长相端正的服务员都站在门口发送传单或者迎接客人。
 ```
 </pre>
@@ -36,29 +36,29 @@
 ```
 穿着女仆装的开朗女生#Audios/Voices/HaruameYuumu/1-10#嗯哼~
 @p@
-@[sp](../../special-event.md):[HideCharacterMiddle](../../special-event/hide-character-middle.md)@
-@[sp](../../special-event.md):[ChangeCharacterLeft](../../special-event/change-character-left.md):Characters/AmamiyaRin/SlightlySurprised_Blush@
-@[sp](../../special-event.md):[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_OpenMouth_OpenEyes_StreetNight_Maid@
-@[sp](../../special-event.md):[ShowCharacterLeft](../../special-event/show-character-left.md)@
-@[sp](../../special-event.md):[ShowCharacterRight](../../special-event/show-character-right.md)@
+@<a href="../../special-event.md">sp</a>:[HideCharacterMiddle](../../special-event/hide-character-middle.md)@
+@<a href="../../special-event.md">sp</a>:[ChangeCharacterLeft](../../special-event/change-character-left.md):Characters/AmamiyaRin/SlightlySurprised_Blush@
+@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_OpenMouth_OpenEyes_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:[ShowCharacterLeft](../../special-event/show-character-left.md)@
+@<a href="../../special-event.md">sp</a>:[ShowCharacterRight](../../special-event/show-character-right.md)@
 突然一个穿着女仆装。满面笑容的黑头发女生站在我的面前鞠了个躬，把传单发给了我。
 @p@
-@[sp](../../special-event.md):[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_OpenMouth_Wink_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_OpenMouth_Wink_StreetNight_Maid@
 穿着女仆装的开朗女生#这位先生，有兴趣来我们餐厅里吃点东西吗？我看您家这位已经饿得不行了呢——
 @p@
 苦匂#什，什么？‘您家这位’是，是什么意思？！
 @p@
-@[sp](../../special-event.md):[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_CloseMouth_CloseEyes_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Smile_CloseMouth_CloseEyes_StreetNight_Maid@
 穿着女仆装的开朗女生#嗯？这位先生您好奇怪啊，不管怎么看她也是您的女朋友吧？贴的这么紧，真是令人羡慕啊~
 @p@
 果，果然被外人误会了啊啊啊啊啊啊啊！！！
 @p@
-@[sp](../../special-event.md):[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Surprised_Normal_StreetNight_Maid@
+@<a href="../../special-event.md">sp</a>:[ChangeCharacterRight](../../special-event/change-character-right.md):Characters/HaruameYuumu/Surprised_Normal_StreetNight_Maid@
 苦匂#哪，哪里是！不是！她可不是啊！
 @p@
-@[sp](../../special-event.md):[HideCharacterLeft](../../special-event/hide-character-left.md)@
-@[sp](../../special-event.md):[HideCharacterRight](../../special-event/hide-character-right.md)@
-@[sp](../../special-event.md):[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
+@<a href="../../special-event.md">sp</a>:[HideCharacterLeft](../../special-event/hide-character-left.md)@
+@<a href="../../special-event.md">sp</a>:[HideCharacterRight](../../special-event/hide-character-right.md)@
+@<a href="../../special-event.md">sp</a>:[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
 我赶紧迈过那个女生，拖着雨宫跑走了，只留下那个女生一脸惊讶和疑惑地留在了原地。
 ```
 </pre>
