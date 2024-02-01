@@ -15,14 +15,6 @@
 而且最重要的是，她看上去平平无奇的，但是想不到，她好像，好像并不是单纯的平胸，能明显感觉到，有一点柔软的感觉压压在了我的手臂上！这和甘茉那种平板的感觉有很大不同啊！
 ```
 <pre>
-import { assign, map } from '<a href="https://www.npmjs.com/package/lodash" title="Lodash on npm">lodash</a>';
-
-<a href="../../special-event.md" title="assign documentation">assign</a>({ 'a': 1 }, { 'b': 2 }, { 'c': 3 });
-// → { 'a': 1, 'b': 2, 'c': 3 } 
-<a href="../../special-event.md" title="map documentation">map</a>([1, 2, 3], function(n) { return n * 3; });
-// → [3, 6, 9] 
-</pre>
-
 ```
 苦匂#别，别搂着我，别搂着我！大夏天的你不嫌热吗！
 @p@
@@ -39,6 +31,8 @@ import { assign, map } from '<a href="https://www.npmjs.com/package/lodash" titl
 @[sp](../../special-event.md):[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
 晚上的滨临区真的很美，毕竟是沿海地区，会有很多的外地人来此观光或者定居，所以当地也很重视街道的建设，每一个店铺的窗户里都透出或温暖或炫目的光，长相端正的服务员都站在门口发送传单或者迎接客人。
 ```
+</pre>
+<pre>
 ```
 穿着女仆装的开朗女生#Audios/Voices/HaruameYuumu/1-10#嗯哼~
 @p@
@@ -67,6 +61,7 @@ import { assign, map } from '<a href="https://www.npmjs.com/package/lodash" titl
 @[sp](../../special-event.md):[ShowCharacterMiddle](../../special-event/show-character-middle.md)@
 我赶紧迈过那个女生，拖着雨宫跑走了，只留下那个女生一脸惊讶和疑惑地留在了原地。
 ```
+</pre>
 
 ## 类型转换
 段落分隔符可以直接被：
