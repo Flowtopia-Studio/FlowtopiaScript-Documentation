@@ -20,8 +20,8 @@
 实际上现在因为海水涨潮导致海风很大，整个街道都充满了凉爽的海风，真正发热的，可能是我燥热的心罢了。
 @p@
 这种感觉以前似乎也有过，但是实在是太久远了，已经回忆不起那时的感觉了。
-@p@
-@[sp](../../special-event.md):[ChangeBackgroundEmpty](../../special-event/change-background-empty.md):#000000@
+@p@<a href="../../special-event.md">sp</a>
+@[]():[ChangeBackgroundEmpty](../../special-event/change-background-empty.md):#000000@
 @[sp](../../special-event.md):[HideBackgroundFront](../../special-event/hide-background-front.md)@
 @[sp](../../special-event.md):[HideBackgroundBehind](../../special-event/hide-background-behind.md)@
 @[sp](../../special-event.md):[ChangeBackgroundFront](../../special-event/change-background-front.md):Backgrounds/Street_Night@
