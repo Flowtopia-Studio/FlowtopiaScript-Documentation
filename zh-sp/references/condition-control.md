@@ -25,6 +25,7 @@
 ```
 @if:[i-10==f-10]?[@select:{[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@]}@]:[@select:{[选项A],[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@][选项D#@jump:label2@]}@]@
 ```
+
 运用本参考[语法](#语法)一节所提到的正则表达式，可得以下正则表达式捕获组：
  - 捕获组 0（完整匹配）：`@if:[i-10==f-10]?[@select:{[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@]}@]:[@select:{[选项A],[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@][选项D#@jump:label2@]}@]@`
  - 捕获组 1：`i-10==f-10`
@@ -35,3 +36,8 @@
  - 捕获组 6：`f`
  - 捕获组 7：`@select:{[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@]}@`
  - 捕获组 8：`@select:{[选项A],[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@][选项D#@jump:label2@]}@`
+
+其中：
+ - 捕获组 1（`i-10==f-10`）为[条件表达式](condition-control/condition-expression.md)
+ - 捕获组 7（`@select:{[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@]}@`）为真语句
+ - 捕获组 8（`@select:{[选项A],[选项A#@jump:label0@],[选项B#@jump:label1@],[选项C#@jump:label0@][选项D#@jump:label2@]}@`）为假语句
